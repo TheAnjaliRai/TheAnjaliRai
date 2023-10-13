@@ -2,6 +2,7 @@
   <img src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif"/>
 </div>
 <div align="center">
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-rai-09b99b268) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@anjalirai0004) 
 
