@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/theanjalirai/theanjalirai/blob/output/github-contribution-grid-snake.svg)
 
 <div id="header" align="center">
   <img src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif"/>
