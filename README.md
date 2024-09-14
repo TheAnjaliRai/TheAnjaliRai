@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://allhacked.com/up/2019/03/hello-world.gif"/>
+  <img src="![github-header-image (2)](https://github.com/user-attachments/assets/dc65c3bb-9146-4d73-b586-bd2d555bf827)"/>
 </div>
 
 ### Hi there, earthling! 👽
