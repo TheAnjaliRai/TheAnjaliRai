@@ -1,7 +1,4 @@
-<div id="header" align="left">
-  <img src="![github-header-image (2)](https://github.com/user-attachments/assets/dc65c3bb-9146-4d73-b586-bd2d555bf827)"/>
-</div>
-
+![github-header-image (2)](https://github.com/user-attachments/assets/dc65c3bb-9146-4d73-b586-bd2d555bf827)
 ### Hi there, earthling! 👽
 
 I’m Anjali Rai, from planet... Earth (at least for now 🌍). You're probably reading this because you stumbled upon my little corner of GitHub. You may have never heard of me, but hey, I'm not offended—there are about 8 billion people in the world, after all.
