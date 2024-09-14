@@ -10,14 +10,7 @@
 <h3 align="center">A data enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theanjalirai&label=Profile%20views&color=0e75b6&style=flat" alt="theanjalirai" /> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@anjalirai0004](https://medium.com/@anjalirai0004)
-
 - 📫 How to reach me **anjalirai0004@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
