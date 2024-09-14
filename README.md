@@ -1,9 +1,7 @@
 ![github-header-image (2)](https://github.com/user-attachments/assets/dc65c3bb-9146-4d73-b586-bd2d555bf827)
 ### Hi there, earthling! 👽
 
-I’m Anjali Rai, from planet... Earth (at least for now 🌍). You're probably reading this because you stumbled upon my little corner of GitHub. You may have never heard of me, but hey, I'm not offended—there are about 8 billion people in the world, after all.
-
-I never thought I'd write a README... for myself. Usually, they’re for projects, but here I am, spilling the beans. Welcome to my README—that's "Read Me," not "Ignore Me." 🙃
+I’m Anjali Rai, from planet... Earth (at least for now 🌍). You're probably reading this because you stumbled upon my little corner of GitHub.
 
 ### About Me
 
@@ -15,9 +13,6 @@ I never thought I'd write a README... for myself. Usually, they’re for project
 ### Fun facts:
 - I once tried to train an AI to read my mind. Turns out, I had too many tabs open—just like my browser.
 - I’ve got a Flask app floating in the cloud, but don’t worry, it’s not raining code... yet.
-
-### The Button of Destiny:
-There's no star button here—it's been abducted by aliens. Click it anyway, and... nothing will happen. 🛸
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theanjalirai&label=Profile%20views&color=0e75b6&style=flat" alt="theanjalirai" /> </p>
 - 📫 How to reach me **anjalirai0004@gmail.com**
