@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   
-
+<p align = "left">
 
 ### Hi there, earthling! 👽
 
@@ -26,7 +26,7 @@ I never thought I'd write a README... for myself. Usually, they’re for project
 ### The Button of Destiny:
 There's no star button here—it's been abducted by aliens. Click it anyway, and... nothing will happen. 🛸
 
-
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theanjalirai&label=Profile%20views&color=0e75b6&style=flat" alt="theanjalirai" /> </p>
 - 📫 How to reach me **anjalirai0004@gmail.com**
 
