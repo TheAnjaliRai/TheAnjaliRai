@@ -15,7 +15,7 @@ I never thought I'd write a README... for myself. Usually, they’re for project
 ### About Me
 
 - 🛠️ I build cool things with **Python** (and sometimes I talk to machines to make them do smart things).
-- 💻 Currently working on some AI/ML stuff and **inventory management**. Basically, I get computers to do the thinking.
+- 💻 Currently working on some AI/ML stuff. I get computers to do the thinking.
 - 🌱 Always learning, always exploring... But still haven’t found out how to grow extra brain cells.
 - 🔭 Obsessed with the intersection of tech and creativity—so if there’s code, coffee, and curiosity involved, I’m there.
 
